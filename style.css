@@ -67,7 +67,7 @@ a.button {
   text-decoration: none;
   font-family: montserrat;
   font-size: 20px;
-  line-height: 1;
+  line-height: 0;
   font-weight: 100;
 }
 
