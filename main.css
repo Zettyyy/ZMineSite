@@ -5,6 +5,17 @@ body {
 ul {
     font-family: montserrat;
 }
+li {
+  list-style: circle;
+}
+
+.list {
+  list-style: square;
+}
+
+#msg {
+  font-family: montserrat;
+}
 .component-2 {
   background: linear-gradient(
       rgba(0, 0, 0, 1),
