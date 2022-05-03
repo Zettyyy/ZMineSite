@@ -62,8 +62,8 @@ body{
     position: absolute;
     top: 0;
     right: 0;
-    height: 100vh;
-    width: 50%;
+    height: 20vh;
+    width: 10%;
     object-fit: cover;
     opacity: 1;
 }
