@@ -5,10 +5,10 @@
 }
 body{
     width: 100%;
-    max-width: 1400px;
+    max-width: 520px;
     display: block;
     margin: auto;
-    min-height: 100vh;
+    min-height: 50vh;
     background: #000000;
     font-family: montserrat;
 }
